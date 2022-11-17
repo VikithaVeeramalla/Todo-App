@@ -1,8 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "./styles.css";
 
-// import TodoForm from "./components/TodoForm";
-// import TodoItem from '/sandbox/components/TodoItem'
+
 import TodoItem from "../components/TodoItem";
 import TodoForm from "../components/TodoForm";
 
