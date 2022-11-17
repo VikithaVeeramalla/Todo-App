@@ -1,2 +1,2 @@
-# Todo-list
+# Todo-App
 Created with CodeSandbox
